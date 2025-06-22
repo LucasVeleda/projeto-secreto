@@ -18,8 +18,6 @@ Criar uma aplicação interativa que envolva:
 
 👉 Acesse o projeto online: [Clique aqui para jogar](https://projeto-secreto-five.vercel.app)
 
-![screenshot do jogo](link-da-screenshot-ou-gif-aqui)
-
 ---
 
 ## 🚀 Tecnologias utilizadas
